@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.acegikmo.mathfs": "0.1.0",
     "com.cysharp.unitask": "2.5.10",
     "com.unity.collab-proxy": "2.6.0",
     "com.unity.feature.2d": "2.0.1",
@@ -50,7 +51,8 @@
       "name": "OpenUpm",
       "url": "https://package.openupm.com",
       "scopes": [
-        "com.cysharp.unitask"
+        "com.cysharp.unitask",
+        "com.acegikmo.mathfs"
       ],
       "overrideBuiltIns": false
     }
